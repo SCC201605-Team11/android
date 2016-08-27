@@ -15,7 +15,6 @@ buildscript {
 }
 
 apply plugin: 'com.android.application'
-apply from: '../android-master/config/quality.gradle'
 
 ext {
     supportLibraryVersion = '23.4.0'
