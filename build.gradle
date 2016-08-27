@@ -139,7 +139,7 @@ jacoco {
     reportsDir = file("$buildDir/customJacocoReportDir")
 }
 
-jacocoTestReport {
+task jacocoTestReport {
     reports {
         xml.enabled false
         csv.enabled false
