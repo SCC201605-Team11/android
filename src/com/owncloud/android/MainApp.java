@@ -204,4 +204,10 @@ public class MainApp extends Application {
 
         return userAgent;
     }
+    
+     @Override
+    protected void attachBaseContext(Context base) {
+        super.attachBaseContext(base);
+        MultiDex.install(this);
+    }
 }
