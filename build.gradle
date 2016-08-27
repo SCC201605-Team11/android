@@ -18,8 +18,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'checkstyle'
 apply plugin: 'findbugs'
 
-check.dependsOn 'checkstyle', 'findbugs', 'pmd'
-
 task checkstyle(type: Checkstyle) {
     configFile file("${project.rootDir}/config/checkstyle/checkstyle.xml")
     source 'src'
