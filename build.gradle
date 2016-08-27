@@ -53,30 +53,7 @@ dependencies {
 
 
 
-    /// dependencies for local unit tests
-    testCompile 'junit:junit:4.12'
-    testCompile 'org.mockito:mockito-core:1.10.19'
-
-
-    /// dependencies for instrumented tests
-    // JUnit4 Rules
-    androidTestCompile 'com.android.support.test:rules:0.5'
-
-    // Android JUnit Runner
-    androidTestCompile 'com.android.support.test:runner:0.5'
-
-    // Android Annotation Support
-    androidTestCompile "com.android.support:support-annotations:${supportLibraryVersion}"
-
-    // Espresso core
-    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
-
-    // UIAutomator - for cross-app UI tests, and to grant screen is turned on in Espresso tests
-    androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.1'
-    
-    //checkstyleRules "<checkstyle_rules>"
-    //findbugsRules "<findbugs_rules>"
-    //pmdRules "<pmd_rules>"
+  
 
 }
 
