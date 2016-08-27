@@ -50,6 +50,7 @@ dependencies {
     compile "com.android.support:appcompat-v7:${supportLibraryVersion}"
     compile "com.android.support:cardview-v7:${supportLibraryVersion}"
     compile 'com.getbase:floatingactionbutton:1.10.1'
+    
 
   /// dependencies for local unit tests
     testCompile 'junit:junit:4.12'
@@ -101,6 +102,11 @@ android {
         testInstrumentationRunnerArgument "TEST_PASSWORD", "\"$System.env.OCTEST_APP_PASSWORD\""
         testInstrumentationRunnerArgument "TEST_SERVER_URL", "\"$System.env.OCTEST_SERVER_BASE_URL\""
         applicationId "com.nextcloud.client"
+    }
+    dexOptions {
+        incremental = true;
+        preDexLibraries = false
+        javaMaxHeapSize "2g" // 2g should be also OK
     }
 
     // adapt structure from Eclipse to Gradle/Android Studio expectations;
