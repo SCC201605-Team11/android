@@ -61,8 +61,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/Theme.ownCloud.Toolbar"
-        android:manageSpaceActivity="com.owncloud.android.ui.activity.ManageSpaceActivity"
-        android:name="android.support.multidex.MultiDexApplication">
+        android:manageSpaceActivity="com.owncloud.android.ui.activity.ManageSpaceActivity">
         <activity
             android:name=".ui.activity.FileDisplayActivity"
             android:label="@string/app_name"
