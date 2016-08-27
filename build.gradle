@@ -14,12 +14,13 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.1.3'
-        classpath "gradle.plugin.si.dlabs.gradle:soter:1.0.7"
+        classpath 'com.github.nrudenko:gradle-android-cq-plugin:0.1+'
     }
 }
 
 apply plugin: 'com.android.application'
-apply plugin: 'si.dlabs.soter'
+apply plugin: 'android-cq'
+//apply plugin: 'si.dlabs.soter'
 //apply from: rootProject.file('gradle/checkstyle.gradle')
 //apply from: rootProject.file('gradle/pmd.gradle')
 //apply from: rootProject.file('gradle/findbugs.gradle')
@@ -72,9 +73,9 @@ dependencies {
     // UIAutomator - for cross-app UI tests, and to grant screen is turned on in Espresso tests
     androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.1'
     
-    checkstyleRules "<checkstyle_rules>"
-    findbugsRules "<findbugs_rules>"
-    pmdRules "<pmd_rules>"
+    //checkstyleRules "<checkstyle_rules>"
+    //findbugsRules "<findbugs_rules>"
+    //pmdRules "<pmd_rules>"
 
 }
 
