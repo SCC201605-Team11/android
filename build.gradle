@@ -8,19 +8,13 @@
 buildscript {
     repositories {
         jcenter()
-        mavenCentral()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.1.3'
-        classpath 'com.github.nrudenko:gradle-android-cq-plugin:0.1+'
     }
 }
 
 apply plugin: 'com.android.application'
-apply plugin: 'android'
-apply plugin: 'checkstyle'
-apply plugin: 'pmd'
-
 
 ext {
     supportLibraryVersion = '23.4.0'
@@ -28,7 +22,8 @@ ext {
 
 repositories {
     jcenter()
-    mavenCentral()
+    maven { url "https://jitpack.io" }
+
     flatDir {
         dirs 'libs'
     }
@@ -46,9 +41,8 @@ dependencies {
     compile "com.android.support:cardview-v7:${supportLibraryVersion}"
     compile 'com.getbase:floatingactionbutton:1.10.1'
 
-    
 
-  /// dependencies for local unit tests
+    /// dependencies for local unit tests
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-core:1.10.19'
 
@@ -64,20 +58,12 @@ dependencies {
     androidTestCompile "com.android.support:support-annotations:${supportLibraryVersion}"
 
     // Espresso core
-    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2' 
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
 
     // UIAutomator - for cross-app UI tests, and to grant screen is turned on in Espresso tests
     androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.1'
-    
-    //checkstyleRules "<checkstyle_rules>"
-    //findbugsRules "<findbugs_rules>"
-    //pmdRules "<pmd_rules>"
-
-  
 
 }
-
-
 
 tasks.withType(Test) {
     /// increased logging for tests
@@ -97,12 +83,8 @@ android {
         testInstrumentationRunnerArgument "TEST_USER", "\"$System.env.OCTEST_APP_USERNAME\""
         testInstrumentationRunnerArgument "TEST_PASSWORD", "\"$System.env.OCTEST_APP_PASSWORD\""
         testInstrumentationRunnerArgument "TEST_SERVER_URL", "\"$System.env.OCTEST_SERVER_BASE_URL\""
+
         applicationId "com.nextcloud.client"
-    }
-    dexOptions {
-        incremental = true;
-        preDexLibraries = false
-        javaMaxHeapSize "4g" // 2g should be also OK
     }
 
     // adapt structure from Eclipse to Gradle/Android Studio expectations;
@@ -149,33 +131,4 @@ android {
         exclude 'META-INF/LICENSE.txt'
     }
 
-}
-
-
-task checkstyle(type: Checkstyle) {
-    configFile file('../config/quality/checkstyle/checkstyle.xml')
-    source 'src/main/java'
-    include '**/*.java'
-    exclude '**/gen/**'
-
-    classpath = files( project.configurations.compile.asPath )
-}
-
-task pmd (type: Pmd, dependsOn: assembleDebug) {
-
-    description 'Run pmd'
-    group 'verification'
-
-    ruleSets = ["basic", "braces", "strings", "design", "unusedcode"]
-    source = fileTree('src/main/java')
-
-    reports {
-        xml.enabled = false
-        html.enabled = true
-    }
-}
-
-check.doLast {
-    project.tasks.getByName("findbugs").execute()
-    project.tasks.getByName("pmd").execute()
 }
