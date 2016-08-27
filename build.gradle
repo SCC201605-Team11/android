@@ -103,6 +103,11 @@ android {
         multiDexEnabled true
         applicationId "com.nextcloud.client"
     }
+    
+    dexOptions {
+    javaMaxHeapSize "4g"
+    preDexLibraries = false
+    }
 
     // adapt structure from Eclipse to Gradle/Android Studio expectations;
     // see http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Configuring-the-Structure
