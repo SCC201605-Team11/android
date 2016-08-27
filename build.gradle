@@ -15,57 +15,10 @@ buildscript {
 }
 
 apply plugin: 'com.android.application'
-apply plugin: "jacoco"
-apply plugin: 'checkstyle'
-apply plugin: 'findbugs'
-apply plugin: 'pmd'
+apply from: rootProject.file('gradle/checkstyle.gradle')
+apply from: rootProject.file('gradle/pmd.gradle')
+apply from: rootProject.file('gradle/findbugs.gradle')
 
-check.dependsOn 'checkstyle', 'findbugs', 'pmd'
-
-task checkstyle(type: Checkstyle) {
-    configFile file("${project.rootDir}/config/quality/checkstyle/checkstyle.xml")
-    source 'src'
-    include '**/*.java'
-    exclude '**/gen/**'
-
-    classpath = files()
-}
-
-task findbugs(type: FindBugs) {
-    ignoreFailures = true
-    effort = "max"
-    reportLevel = "high"
-    excludeFilter = new File("${project.rootDir}/config/quality/findbugs/findbugs-filter.xml")
-    classes = files("$project.buildDir/intermediates/classes/")
-
-    source 'src'
-    include '**/*.java'
-    exclude '**/gen/**'
-
-    reports {
-        xml {
-            destination "$project.buildDir/reports/findbugs/findbugs.xml"
-            xml.withMessages true
-        }
-    }
-
-    classpath = files()
-}
-
-task pmd(type: Pmd) {
-    ruleSetFiles = files("${project.rootDir}/config/quality/pmd/pmd-ruleset.xml")
-    ignoreFailures = true
-    ruleSets = ["basic", "braces", "strings"]
-
-    source 'src'
-    include '**/*.java'
-    exclude '**/gen/**'
-
-    reports {
-        xml.enabled = true
-        html.enabled = false
-    }
-}
 
 ext {
     supportLibraryVersion = '23.4.0'
@@ -183,8 +136,8 @@ android {
     }
 
 }
-
-/*jacoco {
+/**
+jacoco {
     toolVersion = "0.7.6.201602180812"
     reportsDir = file("$buildDir/customJacocoReportDir")
 }
@@ -207,4 +160,5 @@ jacoco {
 task applicationCodeCoverageReport(type:JacocoReport){
     executionData run
     sourceSets sourceSets.main
-}*/
+}
+**/
