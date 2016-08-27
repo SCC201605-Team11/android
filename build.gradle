@@ -15,6 +15,7 @@ buildscript {
 }
 
 apply plugin: 'com.android.application'
+apply plugin: "jacoco"
 
 ext {
     supportLibraryVersion = '23.4.0'
@@ -131,4 +132,29 @@ android {
         exclude 'META-INF/LICENSE.txt'
     }
 
+}
+
+jacoco {
+    toolVersion = "0.7.6.201602180812"
+    reportsDir = file("$buildDir/customJacocoReportDir")
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled false
+        csv.enabled false
+        html.destination "${buildDir}/jacocoHtml"
+    }
+}
+
+apply plugin: "application"
+mainClassName = "org.gradle.MyMain"
+
+jacoco {
+    applyTo run
+}
+
+task applicationCodeCoverageReport(type:JacocoReport){
+    executionData run
+    sourceSets sourceSets.main
 }
