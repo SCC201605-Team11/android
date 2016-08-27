@@ -20,7 +20,7 @@ buildscript {
 
 apply plugin: 'com.android.application'
 apply plugin: 'android'
-apply plugin: 'findbugs'
+apply plugin: 'checkstyle'
 apply plugin: 'pmd'
 
 
@@ -154,23 +154,14 @@ android {
 
 }
 
-task findbugs (type: FindBugs, dependsOn: assembleDebug) {
 
-    description 'Run findbugs'
-    group 'verification'
+task checkstyle(type: Checkstyle) {
+    configFile file('../config/quality/checkstyle/checkstyle.xml')
+    source 'src/main/java'
+    include '**/*.java'
+    exclude '**/gen/**'
 
-    classes = fileTree('build/classes/debug/')
-    source = fileTree('src/main/java')
-    classpath = files(project.configurations.compile.asPath)
-
-    effort = 'max'
-
-    excludeFilter = file("./config/findbugs/exclude.xml")
-
-    reports {
-        xml.enabled = false
-        html.enabled = true
-    }
+    classpath = files( project.configurations.compile.asPath )
 }
 
 task pmd (type: Pmd, dependsOn: assembleDebug) {
