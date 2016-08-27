@@ -79,46 +79,7 @@ dependencies {
 
 }
 
-soter {
 
-    checkstyle {
-        enabled true
-        uploadReports true
-        toolVersion "6.7"
-    }
-
-    findbugs {
-        enabled true
-        uploadReports true
-        reportLevel "low"
-        reportType "html"
-        ignoreFailures false
-    }
-
-    pmd {
-        enabled true
-        uploadReports true
-        ignoreFailures false
-    }
-
-    logs {
-        uploadReports true
-    }
-
-    tests {
-        uploadAndroidTestReports true
-        uploadUnitTestReports true
-    }
-
-    docs {
-        enabled true
-        uploadReports true
-    }
-
-    codeCoverage {
-        uploadReports true
-    }
-}
 
 tasks.withType(Test) {
     /// increased logging for tests
