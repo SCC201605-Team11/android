@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_selected.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\action_item_selected.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_synchronizing_error.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_synchronizing_error.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_round.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\btn_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_finished.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\upload_finished.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_round_pressed.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\btn_round_pressed.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\uploader_list_separator.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\uploader_list_separator.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_round.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\btn_small_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_view.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_view.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_progress_horizontal.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\actionbar_progress_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\process_dialog_background.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\process_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\backrepeat.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\backrepeat.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_inner.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\spinner_inner.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\main_header_bg.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\main_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_failed.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\upload_failed.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\split_action_bg.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\split_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\btn_cancel.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hide.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_hide.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_synced.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_synced.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\checker_16_16.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\checker_16_16.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_up.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_in_progress.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\upload_in_progress.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\common_error.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\common_error.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_btn.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\action_item_btn.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\popup.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_synchronizing.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_synchronizing.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_small.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\progress_small.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ok.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\ic_ok.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\no_network.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\no_network.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\actionbar_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable\\list_selector.xml"
+    }
+]

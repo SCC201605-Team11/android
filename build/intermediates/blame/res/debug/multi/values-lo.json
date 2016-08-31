@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\debug\\values-lo\\values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-lo\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 430,
+                        "endColumn": 70,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 26,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-lo\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 593,
+                        "endColumn": 32,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 57,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-lo\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 627,
+                        "endColumn": 55,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 91,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-lo\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 502,
+                        "endColumn": 89,
+                        "endOffset": 589
+                    }
+                }
+            }
+        ]
+    }
+]

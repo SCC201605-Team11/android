@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 121,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-v9\\versioned_styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 280,
+                        "endLine": 9,
+                        "endColumn": 7,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 125,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-v9\\versioned_styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 141,
+                        "endLine": 6,
+                        "endColumn": 7,
+                        "endOffset": 277
+                    }
+                }
+            }
+        ]
+    }
+]

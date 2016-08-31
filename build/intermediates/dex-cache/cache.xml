@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_58bd0c491f05c50113fb68c261b3193061eb0f17.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.4\b080da16832c1240acbf3f59f338a8e713705c0c\slf4j-api-1.7.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b080da16832c1240acbf3f59f338a8e713705c0c">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\slf4j-api-1.7.4_0ad94907d83534c41cab47d5cd3cc5998a1e3946.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\commons-httpclient\commons-httpclient\3.1\964cd74171f427720480efdec40a7c7f6e58426a\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_7f51f4da73b270a40237b8f4a72ecb4349196ac0.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.github.nextcloud\android-library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="95e34327d4092ce2fcb87600a85f4ddab41d148d">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.github.nextcloud-android-library-1.0.2_927e3b46c06eb56577028c52a4db0f17d82561cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jimmy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b5d1177ed74cc7c0ca05021a1333437d8f8762e6.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.2\397f4731a9f9b6eb1907e224911c77ea3aa27a8b\commons-codec-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\commons-codec-1.2_d8b44eb4dee6fd9e2977582d500ece61a63e83ea.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\libs\touch-image-view.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="49a6b2c0e86e2a02d7e9d2edec628459c56a03b8">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\touch-image-view_edd876a1334570da162cae6a160dd2d242b1b32a.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_00c39a0b9d2e60772c6685cc11c55446fef06697.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_ca5c187e90171bc6d8de23800ac9d20a8d7d8d4b.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\org.apache.jackrabbit\jackrabbit-webdav\2.10.1\ba35a4637e985d1b6dcdca7de75a22b3a0f52d13\jackrabbit-webdav-2.10.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ba35a4637e985d1b6dcdca7de75a22b3a0f52d13">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\jackrabbit-webdav-2.10.1_cb395639bf790bd8e7a32b9889f54f5e482b5dcf.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_882b5f9ab04a34cc18884797e032130a752e3ae3.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_4b943ba6653b4d58e0f24c6ed800548c5d44964a.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f9d7f99fc09d3b2e5c0aa5b6a3ac3d9fba1e6ae3.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0900a53414aa5430e2c9f98600f173b2fbabd1e7.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_b41b46ed9a3de7eac5e0207f4a5b2778a3d25334.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_f0934451258bc3847db4c0c8873a62a999f7cfd3.jar" />
+    </item>
+    <item
+        jar="C:\Windows\System32\config\systemprofile\.gradle\caches\modules-2\files-2.1\org.slf4j\jcl-over-slf4j\1.7.4\b7c1efe9a78b315b6be624e6f6f944788c6be6c0\jcl-over-slf4j-1.7.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b7c1efe9a78b315b6be624e6f6f944788c6be6c0">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\jcl-over-slf4j-1.7.4_40ddd770be37981c841334f3e96a7aed78524d64.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a5cf62491e55c6d20ca9dd14eea4f02463a4ac8c.jar" />
+    </item>
+
+</items>

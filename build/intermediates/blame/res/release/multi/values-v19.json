@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-v19\\bools.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 42,
+                        "endOffset": 792
+                    }
+                }
+            }
+        ]
+    }
+]

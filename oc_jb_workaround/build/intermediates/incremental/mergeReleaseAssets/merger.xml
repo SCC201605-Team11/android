@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\assets"/><source path="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\build-types\release\assets"/></dataSet></merger>

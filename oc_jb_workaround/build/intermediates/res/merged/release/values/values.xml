@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">owncloud</string>
+    <string name="main_app_name">ownCloud</string>
+    <string name="workaround_app_name">ownCloud Jelly Bean Workaround for lost credentials</string>
+</resources>

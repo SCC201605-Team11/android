@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_icon.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\image_fail.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\image_fail.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\folder_public.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\folder_public.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_checkbox_marked.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_checkbox_marked.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\shared_via_link.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\shared_via_link.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_import.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_import.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_xls.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_xls.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_navigate_next.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_navigate_next.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_up.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_share.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_menu_archive.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_menu_archive.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_available_offline.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_available_offline.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_view_module.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_view_module.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_vcard.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_vcard.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_unset_available_offline.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_unset_available_offline.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_select_all.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_select_all.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_group.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_delete_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_delete_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_account_plus.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_account_plus.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_available_offline.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_available_offline.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_key.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_refresh_grey.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_refresh_grey.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_user.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_sound.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_sound.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_favorite.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_delete_grey.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_delete_grey.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_view_list.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_view_list.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play_arrow.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_code.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_code.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_movie.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_movie.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_settings.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_open_with.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_open_with.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_pdf.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_pdf.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_refresh_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_refresh_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_text.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_text.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_warning.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\fab_bg_normal.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.getbase\\floatingactionbutton\\1.10.1\\res\\drawable-mdpi-v4\\fab_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_error.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\common_error.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_select_none.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_select_none.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_pencil.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_pencil.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_share.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_refresh.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_uploads.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_uploads.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_create_dir.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_create_dir.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_image.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_image.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_cancel_sync.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_cancel_sync.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_set_available_offline_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_set_available_offline_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\no_network.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\no_network.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_down.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_cancel.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_hide.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_hide.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_view.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_view.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_close.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_doc.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_doc.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_move.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_move.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\copy_link.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\copy_link.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_open_in_app.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_open_in_app.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_lock_open_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_lock_open_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_checkbox_blank_outline.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_checkbox_blank_outline.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_send.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_set_available_offline.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_set_available_offline.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_cancel_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_cancel_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_information.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_information.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\view_play.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\view_play.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_upload.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_upload.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_lock_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_lock_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_search_grey.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_search_grey.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_ok.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_ok.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_sort_variant.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_sort_variant.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_calendar.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_calendar.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\shared_with_me_folder.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\shared_with_me_folder.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\shared_via_users.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\shared_via_users.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_copy.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\fab_bg_mini.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.getbase\\floatingactionbutton\\1.10.1\\res\\drawable-mdpi-v4\\fab_bg_mini.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_ppt.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_ppt.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_alert.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_zip.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_zip.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\folder_external.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\folder_external.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_unset_available_offline_white.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_unset_available_offline_white.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_cancel_grey.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_cancel_grey.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_download.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_action_download.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_search.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\file_application.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\file_application.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_edit.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\drawable-mdpi\\ic_edit.png"
+    }
+]

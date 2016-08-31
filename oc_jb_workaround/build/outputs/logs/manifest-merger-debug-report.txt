@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:3:5-55
+	android:versionName
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:5:5-33
+		INJECTED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml
+		INJECTED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml
+		INJECTED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:8:9-35
+application
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:11:5-26:19
+	android:label
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:14:9-52
+	android:allowBackup
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:12:9-36
+	android:icon
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:13:9-53
+service#com.owncloud.android.workaround.accounts.AccountAuthenticatorService
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:16:9-25:19
+	android:exported
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:17:13-56
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:19:13-21:29
+	android:priority
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:19:28-48
+action#android.accounts.AccountAuthenticator
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:20:17-80
+	android:name
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:20:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:22:13-24:57
+	android:resource
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:24:17-54
+	android:name
+		ADDED from C:\Program Files (x86)\Jenkins\workspace\SCC Android Project\oc_jb_workaround\AndroidManifest.xml:23:17-69

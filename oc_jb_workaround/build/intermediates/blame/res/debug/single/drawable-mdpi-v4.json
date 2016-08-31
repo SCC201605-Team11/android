@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\oc_jb_workaround\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_app_icon.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\oc_jb_workaround\\res\\drawable-mdpi\\main_app_icon.png"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\oc_jb_workaround\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\workaround_app_icon.png",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\oc_jb_workaround\\res\\drawable-mdpi\\workaround_app_icon.png"
+    }
+]

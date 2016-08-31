@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\menu\\upload_list_menu.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\menu\\upload_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\menu\\file_actions_menu.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\menu\\file_actions_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\menu\\drawer_menu.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\menu\\upload_files_picker.xml",
+        "source": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\menu\\upload_files_picker.xml"
+    }
+]

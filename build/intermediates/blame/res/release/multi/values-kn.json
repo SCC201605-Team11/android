@@ -1,0 +1,805 @@
+[
+    {
+        "outputFile": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\build\\intermediates\\res\\merged\\release\\values-kn\\values-kn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1193,
+                        "endColumn": 50,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 55,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 164,
+                        "endColumn": 53,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 56,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 271,
+                        "endColumn": 54,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 52,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 219,
+                        "endColumn": 50,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 51,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 58,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 106,
+                        "endColumn": 56,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 69,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1788,
+                        "endColumn": 67,
+                        "endOffset": 1853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 70,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 2112,
+                        "endColumn": 68,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 50,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 949,
+                        "endColumn": 48,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 54,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 895,
+                        "endColumn": 52,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 66,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1535,
+                        "endColumn": 64,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 48,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1373,
+                        "endColumn": 46,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 51,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1421,
+                        "endColumn": 49,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 63,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1472,
+                        "endColumn": 61,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 43,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1289,
+                        "endColumn": 41,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 41,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1332,
+                        "endColumn": 39,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 52,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1736,
+                        "endColumn": 50,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 53,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1683,
+                        "endColumn": 51,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 44,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1245,
+                        "endColumn": 42,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 44,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 702,
+                        "endColumn": 42,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 26,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1857,
+                        "endColumn": 32,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 82,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1111,
+                        "endColumn": 80,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 67,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 2045,
+                        "endColumn": 65,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 57,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 746,
+                        "endColumn": 55,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 44,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 803,
+                        "endColumn": 42,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 48,
+                    "endOffset": 1472
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 847,
+                        "endColumn": 46,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1477,
+                    "endColumn": 81,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1891,
+                        "endColumn": 79,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1559,
+                    "endColumn": 73,
+                    "endOffset": 1628
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1972,
+                        "endColumn": 71,
+                        "endOffset": 2041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1633,
+                    "endColumn": 54,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2182,
+                        "endColumn": 52,
+                        "endOffset": 2232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 66,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2708,
+                        "endColumn": 64,
+                        "endOffset": 2770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endColumn": 68,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2842,
+                        "endColumn": 66,
+                        "endOffset": 2906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 68,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2774,
+                        "endColumn": 66,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 66,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2910,
+                        "endColumn": 64,
+                        "endOffset": 2972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 69,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2639,
+                        "endColumn": 67,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 48,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2591,
+                        "endColumn": 46,
+                        "endOffset": 2635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 90,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2501,
+                        "endColumn": 88,
+                        "endOffset": 2587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 94,
+                    "endOffset": 2260
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2327,
+                        "endColumn": 92,
+                        "endOffset": 2417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2265,
+                    "endColumn": 80,
+                    "endOffset": 2341
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2421,
+                        "endColumn": 78,
+                        "endOffset": 2497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2346,
+                    "endColumn": 91,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 2236,
+                        "endColumn": 89,
+                        "endOffset": 2323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endColumn": 53,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 999,
+                        "endColumn": 51,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endColumn": 59,
+                    "endOffset": 2547
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1052,
+                        "endColumn": 57,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2552,
+                    "endColumn": 82,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "C:\\Program Files (x86)\\Jenkins\\workspace\\SCC Android Project\\res\\values-kn\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1601,
+                        "endColumn": 80,
+                        "endOffset": 1679
+                    }
+                }
+            }
+        ]
+    }
+]
